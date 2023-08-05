@@ -1,3 +1,8 @@
-# fix
+# Ujian Akhir Semester
 
-A new Flutter project.
+UAS PAPB
+Kelompok 4
+- M. Fahmi Ahsan
+- Indra Kurniawan
+- Firsta Rahmania Sucahyo
+- Zidan
