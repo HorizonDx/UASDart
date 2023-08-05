@@ -19,6 +19,8 @@ class MenuItemList extends StatelessWidget {
           SizedBox(height: 16.0,),
           MenuItem(),
           MenuItem(),
+          MenuItem(),
+          MenuItem(),
         ],
       ),
     );
@@ -69,7 +71,7 @@ class MenuItem extends StatelessWidget {
                 Text('Pecel Sambel Tumpang', style: TextStyle(fontWeight: FontWeight.w600),),
                 Container(
                   width: 200.0,
-                  child: Text('Pecel,Sambel Tumpang, Telur, sate usus, ramban, ...', style: TextStyle(color: Colors.grey),),
+                  child: Text('Pecel,Sambel Tumpang, Telur Bali, sate usus, ...', style: TextStyle(color: Colors.grey),),
                 )
               ],
             )),
